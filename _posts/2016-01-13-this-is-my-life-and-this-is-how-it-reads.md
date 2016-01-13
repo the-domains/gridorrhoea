@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T09:13:42.819Z'
-dateModified: '2016-01-13T09:13:36.087Z'
+datePublished: '2016-01-13T09:14:21.232Z'
+dateModified: '2016-01-13T09:14:16.885Z'
 title: This is my life and this is how it reads
 author: []
 sourcePath: _posts/2016-01-13-this-is-my-life-and-this-is-how-it-reads.md
@@ -23,4 +23,4 @@ _type: Blurb
 
 ---
 For every chapter, a thousand memories.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc5dd85813349622cf4ccaa19b1b2fe42e3d1c42.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/239ff8a7cae8135b09af97d956b89ce29888bf63.png)
