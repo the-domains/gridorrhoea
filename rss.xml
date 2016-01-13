@@ -4,14 +4,14 @@
         <description><![CDATA[Gridorrhoea]]></description>
         <link>http://thegrid.logorrhoea.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 09:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 09:31:34 GMT</lastBuildDate>
         <atom:link href="http://thegrid.logorrhoea.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><p>This is me, testing out The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ff915dd98227a0c4afb0775a7d401159c853703.png"></article>]]></description>
+            <description><![CDATA[<article><h1>About</h1><p>This is me, testing out The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42aae428eb2f9ac207b571187a246fff0d9a4222.png"></article>]]></description>
             <link>http://thegrid.logorrhoea.net/about/index.html</link>
             <guid isPermaLink="false">f7ca2cb9-ef33-462e-ad50-21fc6829bc67</guid>
-            <pubDate>Wed, 13 Jan 2016 09:30:38 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 09:31:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
