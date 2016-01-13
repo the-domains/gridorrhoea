@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T09:21:41.321Z'
-dateModified: '2016-01-13T09:21:38.083Z'
-title: This is my life and this is how it reads
+datePublished: '2016-01-13T09:22:16.636Z'
+dateModified: '2016-01-13T09:22:12.064Z'
+title: About
 author: []
 sourcePath: _posts/2016-01-13-this-is-my-life-and-this-is-how-it-reads.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: about/index.html
+_type: Article
 
 ---
 This is my life, and this is how it reads,
