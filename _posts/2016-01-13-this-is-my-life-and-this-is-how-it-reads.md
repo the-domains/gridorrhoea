@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is me, testing out The Grid.'
-datePublished: '2016-01-13T09:30:38.403Z'
-dateModified: '2016-01-13T09:30:34.853Z'
+datePublished: '2016-01-13T09:31:34.055Z'
+dateModified: '2016-01-13T09:31:29.923Z'
 title: About
 author: []
 sourcePath: _posts/2016-01-13-this-is-my-life-and-this-is-how-it-reads.md
