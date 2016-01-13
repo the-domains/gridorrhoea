@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T09:24:08.417Z'
-dateModified: '2016-01-13T09:24:02.435Z'
+datePublished: '2016-01-13T09:27:51.928Z'
+dateModified: '2016-01-13T09:27:47.983Z'
 title: About
 author: []
 sourcePath: _posts/2016-01-13-this-is-my-life-and-this-is-how-it-reads.md
@@ -22,6 +22,4 @@ url: about/index.html
 _type: Article
 
 ---
-undefined
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/262a9ac1d5bb61d709f4a1fb20642baf81419102.png)
-undefined
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f99a35b7-8911-46fe-9a24-ef1c562670a7.png)
