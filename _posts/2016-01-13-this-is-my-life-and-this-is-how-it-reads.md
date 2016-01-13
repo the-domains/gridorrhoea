@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is me, testing out The Grid.'
-datePublished: '2016-01-13T09:28:34.617Z'
-dateModified: '2016-01-13T09:28:30.812Z'
+datePublished: '2016-01-13T09:29:30.123Z'
+dateModified: '2016-01-13T09:29:26.016Z'
 title: About
 author: []
 sourcePath: _posts/2016-01-13-this-is-my-life-and-this-is-how-it-reads.md
@@ -22,4 +22,4 @@ url: about/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f99a35b7-8911-46fe-9a24-ef1c562670a7.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/689738020f922aabc303db48100a0acbc96e054f.png)
